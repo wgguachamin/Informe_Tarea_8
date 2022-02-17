@@ -2,9 +2,9 @@
 
 1.	OBJETIVOS
 
-Objetivo General
+    Objetivo General
 
-Objetivo Específico
+    Objetivo Específico
 
 2.	MARCO TEÓRICO
 
