@@ -260,6 +260,10 @@ Para resolver este ejercicio, ya que solicita hallar voltajes y corrientes se ha
 
 ![image](https://user-images.githubusercontent.com/93960809/154429753-4abc0f70-2a83-4ba5-9377-af254c711587.png)
 
+![image](https://user-images.githubusercontent.com/93960809/154585236-97f1d869-3d50-44a7-b223-379bd4329e60.png)
+
+Para calcular los datos que solicita el ejercicio se halla primero el valor de reactancia total, luego se determina la admitancia y su inverso es el valor de la impedancia. Para las corrientes se aplica la ley de ohm en circuitos ca. 
+
 47. Cambie el circuito de la figura 15-98 a una forma equivalente dispuesta en serie.
 
 ![image](https://user-images.githubusercontent.com/93960809/154429797-7bcf3d04-d6e2-4660-840f-f7163ee595ca.png)
