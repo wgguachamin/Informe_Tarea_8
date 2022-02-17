@@ -244,6 +244,16 @@ SECCIÓN 15–6 Análisis de circuitos RC en paralelo
 
 ![image](https://user-images.githubusercontent.com/93960809/154429671-deddc2e6-e071-46b7-b8bd-b3bcb2754ab9.png)
 
+Hallando las corrientes: 
+
+![image](https://user-images.githubusercontent.com/93960809/154573738-444d401c-6aa0-4779-954a-f57fe004a30a.png)
+
+Hallando los voltajes: 
+
+![image](https://user-images.githubusercontent.com/93960809/154573762-00895a5a-6af1-47c8-ba35-f9c7718d8107.png)
+
+Para resolver este ejercicio, ya que solicita hallar voltajes y corrientes se halla dichos valores de voltaje que pase tanto por resistencia como por el capacitor y así mismo para la corriente, luego se las pasa a su forma polar. 
+
 45. Para el circuito de la figura 15-97, determine lo siguiente:
 
 (a) Z (b) IR(c) IC(tot) (d) I tot (e) θ
