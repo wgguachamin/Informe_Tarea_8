@@ -8,6 +8,42 @@
 
 2.	MARCO TEÓRICO
 
+- CAPÍTULO 15
+
+2.1. CIRCUITOS EN SERIE CON UNA INTRODUCCIÓN A LOS NÚMEROS COMPLEJOS
+
+![Concept map](https://user-images.githubusercontent.com/94008521/154591189-b43b3d5f-2f9a-431a-953e-034be2e09581.png)
+
+2.2. CIRCUITOS EN PARALELO
+
+![Cause and effect](https://user-images.githubusercontent.com/94008521/154591258-d07041d5-c91c-49b8-92cf-b05661491fff.png)
+
+2.3. CIRCUITOS EN SERIE-PARALELO
+
+![Cause and effect (1)](https://user-images.githubusercontent.com/94008521/154591327-692a3d11-c5ed-49fc-8a9d-9ab992a696ad.png)
+
+2.4. TEMAS ESPECIALES
+
+![Concept map (1)](https://user-images.githubusercontent.com/94008521/154591352-7ba682b6-3c50-4f31-84c4-c13d3d94fddb.png)
+
+- CAPITULO 16
+
+2.5. CIRCUITOS EN SERIE
+
+![Copia de Concept map](https://user-images.githubusercontent.com/94008521/154591598-0483caed-a1e6-4146-97c5-97e98b41c46b.png)
+
+2.6. CIRCUITOS EN PARALELO
+
+![Cause and effect (2)](https://user-images.githubusercontent.com/94008521/154591653-5decaf8b-8fef-484c-8ada-39b636f4ce1a.png)
+
+2.7. CIRCUITOS EN SERIE-PARALELO
+
+![Cause and effect (3)](https://user-images.githubusercontent.com/94008521/154591712-d4ebe846-2d9f-4dde-b34e-73e0af8943b0.png)
+
+2.8. TEMAS ESPECIALES
+
+![Concept map (2)](https://user-images.githubusercontent.com/94008521/154591733-39dd840b-346d-4113-8fdd-e90b42ebed08.png)
+
 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 CAPÍTULO 15 CIRCUITOS RC
