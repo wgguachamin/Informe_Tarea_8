@@ -499,6 +499,9 @@ SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/93415377/154641433-44abe145-2d87-4081-9991-9fd6595e2a0d.png)
 
+![image](https://user-images.githubusercontent.com/93415377/154649354-5446e069-0221-428e-b591-945894ccfc02.png)
+
+
 29.Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
 
 ![image](https://user-images.githubusercontent.com/93415377/154641553-14e98cbb-79f5-4205-96c0-e47825430d10.png)
@@ -514,7 +517,8 @@ SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/93415377/154641607-2902bf19-f551-471e-a731-577c5d950a23.png)
 
-![image](https://user-images.githubusercontent.com/93415377/154641652-b04f2689-79bc-4df0-a532-dbf8c34568db.png)
+![image](https://user-images.githubusercontent.com/93415377/154650872-d64eca6d-9171-4302-b8e2-c8c50c22de74.png)
+
 
 35.Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
 
@@ -526,11 +530,17 @@ SECCIÓN 16–7 Potencia en circuitos RL
 
 37.Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
 
-![image](https://user-images.githubusercontent.com/93415377/154641755-f9dcbf92-7bbd-432a-847c-f83923c94a3b.png)
+![image](https://user-images.githubusercontent.com/93415377/154651374-36127765-18aa-460a-b687-ad1a12d3377f.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154652634-6d92beba-9da6-418a-947b-14571c96396c.png)
+
+
 
 39.Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia
 
 ![image](https://user-images.githubusercontent.com/93415377/154641844-8d586e99-6b96-42eb-a2cc-92f6bee076f4.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154655584-771384ac-ecda-4c0e-92d2-ebd90789be76.png)
 
 
 SECCIÓN 16–8 Aplicaciones básicas
