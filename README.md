@@ -2,9 +2,15 @@
 
 1.	OBJETIVOS
 
-    Objetivo General
+1.1. OBJETIVO GENERAL
 
-    Objetivo Específico
+Analizar el comportamiento de los circuitos RC y RL, mediante el análisis de los capítulos 15 y 16 del libro "Principios de circuitos eléctricos" de Thomas Floyd, con el fin de desarrollar correctamente los ejercicios planteados en ambos capítulos y aplicar los conocimientos adquiridos en clase.
+
+1.2. OBJETIVOS ESPECÍFICOS
+
+- Determinar la definición de inductancia para circuitos RC, con el fin de conocer el procedimiento para calcularla.
+- Identificar la relación que existe entre las corriente y los voltajes de un circuito RC.
+- Conocer como analizar dos conjuntos de componentes en paralelo de un circuito RL.
 
 2.	MARCO TEÓRICO
 
