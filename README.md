@@ -325,9 +325,21 @@ fasorial de voltaje.
 
 ![image](https://user-images.githubusercontent.com/93960809/154429834-beb02941-b861-4596-bc85-9d12da926973.png)
 
-
 4.	VIDEO
 
 5.	CONCLUSIONES
 
+-	Dentro de los circuitos RC la inductancia se determina como el recíproco de la resistencia y se lo representa por la letra (G), por lo que su expresión fasorial para la inductancia o la forma de calcularla es: 
+
+![image](https://user-images.githubusercontent.com/94008521/154595702-c322d27e-d9ec-4d52-bfa2-35c9b99657d0.png)
+
+-	En un circuito RC la relación entre las corrientes y los voltajes se da cuando: la corriente que pasa por medio de un resistor esta en fase con el voltaje, por otro lado, cuando la corriente pasa por un capacitor aparece adelantada en 90 grados con respecto al voltaje.
+-	Para realizar el análisis de un circuito RL con dos conjuntos de componentes en paralelo se debe seguir lo siguiente: primero expresar cada impedancia de rama en forma rectangular y transformar cada una de estas impedancias a forma polar, a continuación, se debe calcular la corriente de rama mediante notación polar, por lo cual una vez calculadas las corrientes de rama, es posible encontrar la corriente total sumando las dos corrientes de rama en forma rectangular. 
+
 6.	BIBLIOGRAFÍA
+
+-	Floyd, T. (2007). Principios de circuitos eléctricos. Monterrey: Pearson.
+-	Obando, L. (01 de Noviembre de 2019). Obtenido de https://dademuch.com/2019/11/01/circuitos-de-primer-orden-circuitos-rc-y-rl/
+-	Obando, L. (15 de Mayo de 2020). Obtenido de https://dademuch.com/2020/05/15/respuesta-natural-de-un-circuito-rc-definicion-y-ejemplos/
+-	Universidad de arroz. (28 de Junio de 2021). Obtenido de https://cnx.org/contents/F5-vV6DS@3/Circuitos-RL
+-	William, M., Samuel, L., & Jeff, S. (17 de Noviembre de 2021). Obtenido de https://openstax.org/books/f%C3%ADsica-universitaria-volumen-2/pages/10-5-circuitos-rc
