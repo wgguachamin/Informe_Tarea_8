@@ -358,6 +358,9 @@ SECCIÓN 15–8 Potencia en circuitos RC
 
 ![image](https://user-images.githubusercontent.com/93415377/154637152-135a3abe-c2df-474f-9c59-7ad432b550c6.png)
 
+![image](https://user-images.githubusercontent.com/93415377/154698855-24341ac6-1f99-40c8-9188-63513ec5470c.png)
+
+
 59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
 
     ![image](https://user-images.githubusercontent.com/93415377/154637252-e646c911-ffe5-455f-9a3c-10ba5f3e0012.png)
