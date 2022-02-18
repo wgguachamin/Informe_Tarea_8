@@ -327,6 +327,8 @@ fasorial de voltaje.
 
 4.	VIDEO
 
+https://youtu.be/y9nyj7f54Lw
+
 5.	CONCLUSIONES
 
 -	Dentro de los circuitos RC la inductancia se determina como el recíproco de la resistencia y se lo representa por la letra (G), por lo que su expresión fasorial para la inductancia o la forma de calcularla es: 
