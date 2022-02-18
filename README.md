@@ -455,6 +455,21 @@ SECCIÓN 16–3 Análisis de circuitos RL en serie
 
 ![image](https://user-images.githubusercontent.com/93415377/154657441-b377c752-293b-42b2-8842-f4b4c7971ce1.png)
 
+        (a) 60 Hz    
+
+![image](https://user-images.githubusercontent.com/93415377/154689705-454fb39e-cdfa-4365-a832-e8177c661951.png)
+
+        (b) 200 Hz   
+
+![image](https://user-images.githubusercontent.com/93415377/154690597-2a04674f-2a76-4b9c-9e67-4f8476e6317f.png)
+  
+        (c) 500 Hz   
+        
+ ![image](https://user-images.githubusercontent.com/93415377/154691182-cf7da254-19e7-4fce-a995-cb9c709d600a.png)
+       
+        (d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/93415377/154692021-6f229248-be68-47e1-bb12-6493070bfcb1.png)
 
 17.Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
 
