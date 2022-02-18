@@ -52,7 +52,7 @@ Analizar el comportamiento de los circuitos RC y RL, mediante el análisis de lo
 
 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-CAPÍTULO 15 CIRCUITOS RC
+        CAPÍTULO 15 CIRCUITOS RC
 
 PARTE 1: CIRCUITOS EN SERIE
 
@@ -333,7 +333,246 @@ fasorial de voltaje.
 
 Para hallar lo pedido en el ejercicio, primero se halla el valor de cada una de las reactancias capacitivas, a continuación, se halla la impedancia de cada una de las ramas dispuestas en paralelo. Luego se procede a hallar el valor de las intensidades y con ese dato, mediante la ley de ohm se logran encontrar los valores de los voltajes.
 
-4.	VIDEO
+51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
+
+53. Determine el valor de C2 en la figura 15-102 cuando VA = VB
+
+    ![image](https://user-images.githubusercontent.com/93415377/154636945-0e352b3f-a909-4370-b0cd-04d9f98a6fc9.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154637017-036dbedd-9dd3-4dda-a363-150ca85cdc26.png)
+
+55.Encuentre la corriente a través de cada componente en la figura 15-103.
+
+![image](https://user-images.githubusercontent.com/93415377/154637068-3007a051-6724-47d2-b4ba-eef14cc7142c.png)
+
+PARTE 4: TEMAS ESPECIALES
+
+SECCIÓN 15–8 Potencia en circuitos RC
+
+57.En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
+
+![image](https://user-images.githubusercontent.com/93415377/154637152-135a3abe-c2df-474f-9c59-7ad432b550c6.png)
+
+59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
+
+    ![image](https://user-images.githubusercontent.com/93415377/154637252-e646c911-ffe5-455f-9a3c-10ba5f3e0012.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154637357-0a7f6974-2355-4d9e-be1e-951c916778e4.png)
+
+61.Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Ω y factor de potencia de 0.85. La carga B tiene impedancia de 72 Ω y factor de potencia de 0.95.
+
+![image](https://user-images.githubusercontent.com/93415377/154637415-f488b465-1b90-4d36-92ff-63835c8a28c4.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154637452-82ab4460-edf9-4c75-b1fc-51fd465be703.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154637494-c68fb886-f039-4122-84cf-70f84d256afc.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154637534-b6106875-464d-4c2d-9a4d-33cd009ec839.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154637582-a4ab49a8-dcac-4599-b404-3bc44016e8a9.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154637620-02975cf9-76f7-4db3-8286-9b24bc80cb18.png)
+
+SECCIÓN 15–9 Aplicaciones básicas
+
+63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
+
+![image](https://user-images.githubusercontent.com/93415377/154637947-be9897e3-0245-4011-9d7c-a3d97a6365cb.png)
+
+SECCIÓN 15–10 Localización de fallas
+
+65.Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kΩ y la frecuencia de 10 Hz.
+
+  ![image](https://user-images.githubusercontent.com/93415377/154638204-dd181db6-bc90-489c-afa2-c3d1258cc719.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154638378-63cc10e8-3c5d-4294-8632-ba10c4405f45.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154638426-35df67aa-b195-4d97-8b47-b70fad9502cf.png)
+
+67.Determine el voltaje de salida para el circuito de la figura 15-107 (a) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
+
+![image](https://user-images.githubusercontent.com/93415377/154638491-0a46a92e-8745-4c7d-a8c8-6d68ae9c7160.png)
+
+
+![image](https://user-images.githubusercontent.com/93415377/154638530-ae9f3811-d34f-4b81-957b-2e27bb45b542.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154638608-4f7d9a82-ed71-4a03-a79b-deacf48d65dc.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154638752-834dc57f-0e05-440e-83c6-793ce529dbc5.png)
+
+
+      CAPITULO 16
+
+PARTE 1: CIRCUITOS EN SERIE
+
+SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
+
+1.Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
+
+![image](https://user-images.githubusercontent.com/93415377/154638922-39433900-d728-4bbf-b619-b03545e842e0.png)
+
+SECCIÓN 16–2 Impedancia de circuitos RL en serie
+
+3.Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+
+![image](https://user-images.githubusercontent.com/93415377/154639195-1aeaf082-6337-490b-81c6-a94882238ce3.png)
+
+5.En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+
+(a) 100 Hz    (b) 500 Hz    (c) 1 kHz    (d) 2 kHz
+
+![image](https://user-images.githubusercontent.com/93415377/154639249-28a87289-92bf-4e16-934e-35087877bcc5.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154639327-d3bafb4d-e462-4f7b-b61a-1a63e79e6d20.png)
+
+7.Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+![image](https://user-images.githubusercontent.com/93415377/154639527-a876c9bb-d279-41a1-8e17-87e14d60fbd9.png)
+
+SECCIÓN 16–3 Análisis de circuitos RL en serie
+
+9.Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+
+  ![image](https://user-images.githubusercontent.com/93415377/154639637-1a60553b-a4e5-44fe-9742-53dd0a3082ad.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154639722-5bea7184-5ee3-4c51-88b0-b30432731edf.png)
+
+11.Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/93415377/154639800-a3232c8a-aa18-44b9-aa8d-c0e54eea083b.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154639855-a4346bf9-a4a5-4794-8627-fdca88cb3625.png)
+
+
+13.Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?
+
+![image](https://user-images.githubusercontent.com/93415377/154640213-4a2fa1eb-7aa3-4565-8951-d53ec3f7e677.png)
+
+
+15.Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+
+(a) 60 Hz    (b) 200 Hz    (c) 500 Hz    (d) 1 kHz
+
+17.Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+(a) 1 Hz 	(b) 100 Hz 	(c) 1 kHz 	(d) 10 kHz
+
+  ![image](https://user-images.githubusercontent.com/93415377/154640300-3d713df0-2b62-4499-9778-c460e61b027c.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154640626-49cf7fb6-b3cd-40cd-b76a-02112ee9bc4c.png)
+
+PARTE 2 CIRCUITOS EN PARALELO
+
+SECCIÓN 16–4 Impedancia y admitancia de circuitos RL en paralelo
+
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+  ![image](https://user-images.githubusercontent.com/93415377/154640686-5c954aef-f786-470b-b3cb-2be9df5a8dc9.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154640733-9e1a5c42-e041-4869-bb9b-37552b4bbdcf.png)
+
+
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/93415377/154640775-4d4a17fb-4aff-405a-a6d9-079032217056.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154641127-c584bf46-21f1-4ec9-a5e1-58101ba01063.png)
+
+SECCIÓN 16–5 Análisis de circuitos RL en paralelo
+
+23.Determine las siguientes cantidades en la figura 16-65:
+
+(a) Z 		(b)I_R 		(c) I_L 	 	(d) I_Tot	(e) θ
+
+![image](https://user-images.githubusercontent.com/93415377/154641296-b7dd9412-61db-4694-838e-32f028599a17.png)
+
+25.Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+![image](https://user-images.githubusercontent.com/93415377/154641385-b205a6cb-3b84-4e17-80d6-42be08e2438a.png)
+
+
+PARTE 3: CIRCUITOS EN SERIE-PARALELO
+
+SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
+
+27.Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/93415377/154641433-44abe145-2d87-4081-9991-9fd6595e2a0d.png)
+
+29.Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+
+![image](https://user-images.githubusercontent.com/93415377/154641553-14e98cbb-79f5-4205-96c0-e47825430d10.png)
+
+
+31.Para el circuito de la figura 16-70, determine lo siguiente:
+
+(a)I_tot	 (b) V_L1	 (c) V_AB
+
+![image](https://user-images.githubusercontent.com/93415377/154641529-491c9c63-ecf9-46de-8ba9-fcaa15caea6d.png)
+
+33.Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.
+
+![image](https://user-images.githubusercontent.com/93415377/154641607-2902bf19-f551-471e-a731-577c5d950a23.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154641652-b04f2689-79bc-4df0-a532-dbf8c34568db.png)
+
+35.Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A.
+
+![image](https://user-images.githubusercontent.com/93415377/154641683-fe279fa5-b1c2-425d-8e20-2e3c3bae04e1.png)
+
+PARTE 4: TEMAS ESPECIALES
+
+SECCIÓN 16–7 Potencia en circuitos RL
+
+37.Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+
+![image](https://user-images.githubusercontent.com/93415377/154641755-f9dcbf92-7bbd-432a-847c-f83923c94a3b.png)
+
+39.Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia
+
+![image](https://user-images.githubusercontent.com/93415377/154641844-8d586e99-6b96-42eb-a2cc-92f6bee076f4.png)
+
+
+SECCIÓN 16–8 Aplicaciones básicas
+
+41.Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.
+
+  ![image](https://user-images.githubusercontent.com/93415377/154641900-90620113-6c50-4b15-bfaf-40dc5231e03a.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154642037-0a37fc42-af0d-4989-9277-95e25b8a4a6b.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154642171-eb6eb16c-7eaa-41ae-b570-7a456dfab8f3.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154642632-c2301d07-c0f6-4696-8824-c82fcc7181b6.png)
+
+
+43.Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia de 8 kHz.
+
+![image](https://user-images.githubusercontent.com/93415377/154642664-aa28e87c-9536-444f-aac6-6e1ce6b05fa9.png)
+
+
+![image](https://user-images.githubusercontent.com/93415377/154642695-a689808d-bf61-4ab6-b83e-976cbc4877ac.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154642804-15e7d396-f459-4acf-b2ad-3575c0efb914.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154642763-3b788fef-21ed-4e41-91ef-9d7fe25117ff.png)
+
+
+SECCIÓN 16–9 Localización de fallas
+
+45.Determine el voltaje de salida en la figura 16-73 para cada uno de los siguientes modos de falla:
+
+(a) L1 abierto	 (b) L2 abierto	 (c) R1 abierto 	(d) un cortocircuito a través de R2
+
+![image](https://user-images.githubusercontent.com/93415377/154642901-4c442f57-b924-4842-84c0-8527f1199b65.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154642940-23cfa7bb-02e1-44ea-8833-0f8d6c5d55cb.png)
+
+
+![image](https://user-images.githubusercontent.com/93415377/154643009-568d98db-60b5-426f-93f2-0d2ca1cd96c3.png)
+
+
+23.	VIDEO
 
 https://youtu.be/y9nyj7f54Lw
 
