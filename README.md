@@ -335,6 +335,11 @@ Para hallar lo pedido en el ejercicio, primero se halla el valor de cada una de 
 
 51.Encuentre la corriente a través de cada rama y la corriente total en la figura 15-100. Exprese las corrientes en forma polar. Trace el diagrama fasorial de corriente.
 
+![image](https://user-images.githubusercontent.com/93415377/154692688-478377af-64ce-45c7-a66f-251fb2407c10.png)
+
+![image](https://user-images.githubusercontent.com/93415377/154693432-7a1233db-ecc1-4fa0-9260-ea0958dab1ff.png)
+
+
 53. Determine el valor de C2 en la figura 15-102 cuando VA = VB
 
     ![image](https://user-images.githubusercontent.com/93415377/154636945-0e352b3f-a909-4370-b0cd-04d9f98a6fc9.png)
