@@ -325,6 +325,14 @@ fasorial de voltaje.
 
 ![image](https://user-images.githubusercontent.com/93960809/154429834-beb02941-b861-4596-bc85-9d12da926973.png)
 
+![image](https://user-images.githubusercontent.com/93960809/154613379-f8734caa-5962-4cfe-b6ce-6be683c28189.png)
+
+![image](https://user-images.githubusercontent.com/93960809/154613412-5664cf3a-84d9-464c-9bf9-ebb6b3cf7ef3.png)
+
+![image](https://user-images.githubusercontent.com/93960809/154613435-ba01ef8f-1817-498e-bca7-62194cdb24f6.png)
+
+Para hallar lo pedido en el ejercicio, primero se halla el valor de cada una de las reactancias capacitivas, a continuación, se halla la impedancia de cada una de las ramas dispuestas en paralelo. Luego se procede a hallar el valor de las intensidades y con ese dato, mediante la ley de ohm se logran encontrar los valores de los voltajes.
+
 4.	VIDEO
 
 https://youtu.be/y9nyj7f54Lw
