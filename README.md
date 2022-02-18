@@ -502,16 +502,18 @@ SECCIÓN 16–6 Análisis de circuitos RL en serie-paralelo
 ![image](https://user-images.githubusercontent.com/93415377/154649354-5446e069-0221-428e-b591-945894ccfc02.png)
 
 
-29.Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.
+29.Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar.
 
-![image](https://user-images.githubusercontent.com/93415377/154641553-14e98cbb-79f5-4205-96c0-e47825430d10.png)
+![image](https://user-images.githubusercontent.com/93415377/154656377-9ffab91c-2845-41b2-bc13-07e193fafb1b.png)
 
 
 31.Para el circuito de la figura 16-70, determine lo siguiente:
 
 (a)I_tot	 (b) V_L1	 (c) V_AB
 
-![image](https://user-images.githubusercontent.com/93415377/154641529-491c9c63-ecf9-46de-8ba9-fcaa15caea6d.png)
+![image](https://user-images.githubusercontent.com/93415377/154657092-5099d474-b670-47ab-a400-97f5260948a3.png)
+
+
 
 33.Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.
 
