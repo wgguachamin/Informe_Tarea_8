@@ -350,6 +350,9 @@ Para hallar lo pedido en el ejercicio, primero se halla el valor de cada una de 
 
 ![image](https://user-images.githubusercontent.com/93415377/154637068-3007a051-6724-47d2-b4ba-eef14cc7142c.png)
 
+![image](https://user-images.githubusercontent.com/93415377/154699098-d7eaedc9-1322-4247-9eb5-f2b701048bfc.png)
+
+
 PARTE 4: TEMAS ESPECIALES
 
 SECCIÓN 15–8 Potencia en circuitos RC
@@ -357,8 +360,6 @@ SECCIÓN 15–8 Potencia en circuitos RC
 57.En un circuito RC en serie, la potencia real es de 2 W y la potencia reactiva de 3.5 VAR. Determine la potencia aparente.
 
 ![image](https://user-images.githubusercontent.com/93415377/154637152-135a3abe-c2df-474f-9c59-7ad432b550c6.png)
-
-![image](https://user-images.githubusercontent.com/93415377/154698855-24341ac6-1f99-40c8-9188-63513ec5470c.png)
 
 
 59. ¿Cuál es el factor de potencia para el circuito de la figura 15-98?
@@ -610,7 +611,8 @@ SECCIÓN 16–9 Localización de fallas
 ![image](https://user-images.githubusercontent.com/93415377/154643009-568d98db-60b5-426f-93f2-0d2ca1cd96c3.png)
 
 
-23.	VIDEO
+
+4.	VIDEO
 
 https://youtu.be/y9nyj7f54Lw
 
