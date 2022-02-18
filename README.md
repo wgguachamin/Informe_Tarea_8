@@ -304,6 +304,12 @@ Para calcular los datos que solicita el ejercicio se halla primero el valor de r
 
 ![image](https://user-images.githubusercontent.com/93960809/154429797-7bcf3d04-d6e2-4660-840f-f7163ee595ca.png)
 
+![image](https://user-images.githubusercontent.com/93960809/154592420-305ed913-5a7d-4d8f-9493-2a4aef7fa195.png)
+
+Por tanto, el circuito RC equivalente en serie no tiene resistor, pero si una reactancia capacitiva de 31.97 pΩ.
+
+Para encontrar el circuito equivalente en serie, se calcula admitancia, impedancia y con eso se puede identificar los valores primero en polares del circuito equivalente, por lo que luego se lo debe convertir a rectangulares y así ya se puede ver los elementos a identificar. 
+
 PARTE 3: CIRCUITOS EN SERIE-PARALELO
 
 SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo
